@@ -235,6 +235,35 @@
             "nadena.dev.ndmf": ">=1.5.0 <2.0.0-a",
             "nadena.dev.modular-avatar": ">=1.10.0 <2.0.0-a"
           }
+        },
+        "0.8.4": {
+          "name": "dev.lyrastellate.menu-manager",
+          "displayName": "Lyra Menu Manager",
+          "version": "0.8.4",
+          "unity": "2022.3",
+          "description": "ExpressionMenuを直感的に編集できるエディター拡張",
+          "author": {
+            "name": "Lyra",
+            "url": "https://github.com/LyraStellate"
+          },
+          "documentationUrl": "https://docs.lyrastellate.dev/menu-manager/",
+          "url": "https://github.com/LyraStellate/LyraMenuManager/releases/download/v0.8.4/package.zip",
+          "changelogUrl": "https://docs.lyrastellate.dev/menu-manager/guide/changelog.html",
+          "repo": "https://lyrastellate.github.io/vpm-repos/index.json",
+          "keywords": [
+            "vrchat",
+            "avatar",
+            "menu",
+            "expression-menu",
+            "modular-avatar",
+            "ndmf",
+            "editor-tool"
+          ],
+          "vpmDependencies": {
+            "com.vrchat.avatars": ">=3.7.0",
+            "nadena.dev.ndmf": ">=1.5.0 <2.0.0-a",
+            "nadena.dev.modular-avatar": ">=1.10.0 <2.0.0-a"
+          }
         }
       }
     }
